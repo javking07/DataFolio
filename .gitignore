@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
+
+# data
+/OpenFoodFacts/Data/en.openfoodfacts.org.products.tsv
+
+=======
+>>>>>>> parent of 6f03e9e... OpenFood Updates
